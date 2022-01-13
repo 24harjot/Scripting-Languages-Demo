@@ -1,0 +1,133 @@
+solution !
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+</head>
+<style>
+    #head {
+        text-align: center;
+    }
+</style>
+
+<body>
+
+
+    
+    <div>
+
+        <h1 id="head">Bio Data</h1>
+    </div>
+    <hr>
+    <div>
+        <ul>
+            <li>HARJOT SINGH</li>
+            <li>MOBILE:8954585361 / 8077477713</li>
+            <li>E-mail:24harjot1994@gmail.com</li>
+        </ul>
+    </div>
+    <div>
+        <a href="#cARRIER">Carrier_Objective</a><br>
+        <a href="#Acadmic_qualifications">QUALIFICATIONS</a><br>
+        <a href="#Experience">Experience</a><br>
+        <a href="#Strengths">Strengths</a><br>
+        <a href="#Personal_Details">Personal_Details</a><br>
+    </div>
+
+    <h3 id="CARRIER">CARRIER OBJECTIVE</h3>
+    <P> To suceed in a environment of growth and execellence and earn ajob which provides me ajob satisfaction and
+        self development and helpme to achive personal as well as organisational goals</P>
+    <br>
+    <div ID="Acadmic_qualifications">
+        <h3>ACADEMIC QUALIFICATIONS</h3>
+        <table border="2px" cellpadding="8"  cellspacing="5" bordercolor="black">
+            <thead>
+                <tr>
+                    <th> Degree </th>
+                    <th>College/School</th>
+                    <th>University/Board</th>
+                    <th>year</th>
+                    <th>Percentage</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>MCA</td>
+                    <td>Graphic Era</td>
+                    <td>Graphic Era hill university</td>
+                    <td>Persuing</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Btech(Mechanical)</td>
+                    <td>Grd imt Dehradun</td>
+                    <td>uttarakhend technical university</td>
+                    <td>2017</td>
+                    <td>70%</td>
+                </tr>
+                <tr>
+                    <td>Intermediate</td>
+                    <td>Sgrr public school</td>
+                    <td>CBSE</td>
+                    <td>2012</td>
+                    <td>60%</td>
+                </tr>
+                <tr>
+                    <td>High School</td>
+                    <td>Sgrr public school</td>
+                    <td>CBSE</td>
+                    <td>2010</td>
+                    <td>70%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="Experience">
+        <h3>EXPERIENCE</h3>
+        <ul>
+            <li>Two year of Experience as a Territory manager in lavue pharmaceuticals pvt ltd</li>
+            <li>One year of Experience asa Territory Buisness Manager in CIPLA Ltd. </li>
+        </ul>
+    </div>
+    <DIV id="Strengths">
+        <H3>STRENGTHS</H3>
+        <UL>
+            <LI>Abililty to work in a team</LI>
+            <LI>Positive approach and vision of growth</LI>
+            <LI>Disciplined,honest and hard working</LI>
+            <LI>Experince of leadership</LI>
+        </UL>
+    </DIV>
+    <div id="Personal_Details">
+        <h3>PERSONAL DETAILS</h3>
+        <ul>
+            <li>Name : Harjot singh</li>
+            <li>Fathers name : Balwant singh</li>
+            <li>Date of Birth : 24-june-1994</li>
+            <li>Gender : Male</li>
+            <li>Languages known : Hindi,English</li>
+            <li>Nationality : INDIAN</li>
+            <li>Permanent Address : 480, Khurbura Mohalla Dehradun (Uttarakhand)</li>
+            <li>Hobbies : Playing Keyboard</li>
+        </ul>
+
+    </div>
+
+</body>
+
+</html>
+
+
+
+solution 2
+Cascading Style Sheets, commonly known as CSS, is an integral part of the modern web development process. It is a highly effective HTML tool that provides easy control over layout and presentation of website pages by separating content from design.
+Although CSS was introduced in 1996, it gained mainstream popularity by the early 2000s when popular browsers started supporting its advanced features. The latest version, CSS3, has been available since 1998 and was last updated in September 2008.
+
+B
+
+
